@@ -1,0 +1,9 @@
+CIUDAD TEMP LLUVIA
+Val 14 4
+Mad 23 15
+Bar 16 8
+Val 17 0
+Val 21 18
+Mad 25 4
+Bar 17 0
+Bar 21 12
