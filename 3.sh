@@ -1,3 +1,4 @@
+
 #!/bin/bash
 media=0
 cuantos=0
